@@ -3,3 +3,4 @@ CapsLock & k::Down
 CapsLock & j:: Left
 CapsLock & l::Right
 
+SetCapsLockState, AlwaysOff
